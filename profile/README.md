@@ -1,1 +1,1 @@
-Founded in 1999, PADL once produced identity service offerings based on RFC 2307 and Kerberos, including Domain Services for Windows. Since 2022 we are developing embedded audio networking products under the Lukktone moniker.
+Founded in 1999, PADL initially produced directory and authentication service offerings based on RFC 2307 and Kerberos, including Domain Services for Windows. Since 2022 we are developing software and hardware AoIP solutions under the Lukktone moniker.
